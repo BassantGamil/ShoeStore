@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorTextDefault">#131313</color>
+    <color name="colorTextLabelDefault">#353535</color>
+    <color name="colorTextHintDefault">#434343</color>
+
+    <color name="colorTextWhite">#F3F3F3</color>
+    <color name="tab_indicator">#c0c0c0</color>
+    <color name="ColorLightGray">#D1D3D4</color>
+    <color name="ColorDarkGray">#8592A4</color>
+    <color name="colorBlack">#000000</color>
+    <color name="splash_description_color">#656565</color>
+    <color name="colorBackButton">#F3F4F8</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorHide">#00000000</color>
+    <color name="colorTwitter">#55ACEE</color>
+    <color name="colorSnapChat">#FFFE37</color>
+    <color name="colorBackground">#CC767680</color>
+    <color name="colorOrange">#FDBC2C</color>
+</resources>

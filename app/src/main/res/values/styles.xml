@@ -1,0 +1,56 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+
+    <style name="TextDefault">
+        <item name="font">@font/poppins_regular</item>
+<!--        <item name="android:textSize">@dimens/text_size</item>-->
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/colorTextDefault</item>
+    </style>
+
+    <style name="TextLabelDefault">
+        <item name="font">@font/poppins_semibold</item>
+<!--        <item name="android:textSize">@dimens/text_size</item>-->
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/colorTextLabelDefault</item>
+    </style>
+
+    <style name="TextInputDefault">
+        <item name="font">@font/poppins_regular</item>
+        <item name="android:textSize">16sp</item>
+<!--        <item name="android:textSize">@dimens/text_size</item>-->
+        <item name="android:textColor">@color/colorTextDefault</item>
+    </style>
+
+    <style name="ButtonPrimary">
+        <item name="android:background">@drawable/bg_button_primary</item>
+        <item name="android:textSize">18sp</item>
+<!--        <item name="android:textSize">@dimens/button_text_size</item>-->
+        <item name="android:textColor">@color/colorTextWhite</item>
+        <item name="font">@font/poppins_semibold</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="linearLayoutHorizontal">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_marginStart">32dp</item>
+        <item name="android:layout_marginEnd">32dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+
+</resources>
